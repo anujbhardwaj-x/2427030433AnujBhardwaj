@@ -1,13 +1,13 @@
-# Python Lab Programs
+Object Oriented Programming in Python Lab Programs
 
-**Name:** Anuj Bhardwaj  
-**Reg. No.:** 2427030433  
+Name: Anuj Bhardwaj  
+Registration Number: 2427030433  
 
 This repository contains Python lab programs organized by lab sessions.
 
-## Lab Contents
+Lab Contents
 
-### Lab 1: Data Types & Variables
+Lab 1: Data Types & Variables
 - Check variable types
 - Add integers, float, and strings
 - Swap two numbers
@@ -15,7 +15,7 @@ This repository contains Python lab programs organized by lab sessions.
 - Basic arithmetic operations
 - Area & circumference of circle
 
-### Lab 2: Strings
+Lab 2: Strings
 - Distance between two points
 - Sum using command-line arguments
 - Reverse a string
@@ -24,17 +24,25 @@ This repository contains Python lab programs organized by lab sessions.
 - Replace spaces with hyphens
 - Convert first letter of words to uppercase
 
-### Lab 3: Control Statements
+Lab 3: Control Statements
 - Multiplication table
 - Inverted pyramid of numbers
 - Prime number check
 - Sum of digits
 - FizzBuzz
 
-### Lab 4: Lists
+Lab 4: Lists
 - Largest & smallest number in a list
 - Sort names
 - Reverse list manually
 - Above average marks
 - Print list in reverse
 - Print items with while loop
+
+Lab 5: Functions
+- Apply Discount
+- Calculate Area
+- Calculate Average Marks
+-  Bonus Salary
+-  Student Record
+-  Total Bill
