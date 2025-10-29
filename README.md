@@ -46,3 +46,18 @@ Lab 5: Functions
 -  Bonus Salary
 -  Student Record
 -  Total Bill
+
+Lab 6 and Lab 7: Class and Constructor
+- Apply Bank Fees to class Bank Account
+- Print Salary Slips for class Employee
+- Calculate Grade for class Student
+
+Lab 8: Inheritance
+- Employee (Multi-Level Inheritance)
+- Product (Multi-Level Inheritance)
+- School (Multi-Level Inheritance)
+
+Lab 9: Searching
+- Binary Search
+- Linear Search
+- Selection Sort
